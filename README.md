@@ -100,6 +100,11 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
 
+### Assignment: Caching the Inverse of a Matrix ( Solve).
+ I have used the `matlib` package already provided in R to calculate the inverse of the matrix.
+ Just source the file `cachematrix.R` and both functions makeCacheMatrix` and `cacheSolve` will be available in the workspace.
+
+
 ### Grading
 
 This assignment will be graded via peer assessment.
